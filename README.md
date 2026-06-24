@@ -12,4 +12,4 @@ Ratchanon Inthachang(6840011063)
 ## ปัญหาที่พบและวิธีแก้
 - (ไม่พบปัญหาใดๆ)
 ## Screenshot
-- ดูในไฟล์ Annotation 2026-06-24 095019.png และ image.png
+- ดูในไฟล์ Annotation 2026-06-24 095019.png และ pgAdmin.png
